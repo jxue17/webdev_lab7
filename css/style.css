@@ -19,7 +19,7 @@ h1 {
   float: right;
   width: 200px;
   padding: 10px;
-  background-color: #2EC0F9;
+  background-color: white;
   margin: 10px 0 px 10px 20px;
   display: block;
   margin-left: auto;
@@ -28,10 +28,10 @@ h1 {
 	
 tr,
 td {
-  top: 5px;
+  top: 15px;
   font-family: "Lucida Console", "Times New Roman", serif;
-  background-color: #2EC0F9;
-  font-size: 100%;
+  background-color: white;
+  font-size: 150%;
   text-align: center;
   color: white;
 }
