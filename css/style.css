@@ -1,5 +1,12 @@
 body {
-  background-image: url(images/background.jpg);
+  background-image: url("images/background.jpg");
+}
+
+h1 {
+  top: 25px;
+	font-size: 500%;
+	font-family: "Lucida Handwriting", "Times New Roman", serif;
+	text-align: center;
 }
 
 .center {
