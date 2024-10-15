@@ -4,9 +4,9 @@ body {
 
 h1 {
   top: 25px;
-	font-size: 500%;
-	font-family: "Lucida Handwriting", "Times New Roman", serif;
-	text-align: center;
+  font-size: 500%;
+  font-family: "Lucida Console", "Times New Roman", serif;
+  text-align: center;
 }
 
 .center {
@@ -15,14 +15,14 @@ h1 {
 }
 
 .image {
-	float: right;
-	width: 200px;
-	padding: 10px;
-	background-color: white;
-	margin: 10px;
+  float: right;
+  width: 200px;
+  padding: 10px;
+  background-color: white;
+  margin: 10px;
 }
 	
 
 td {
-  font-family: "Lucida Handwriting", "Times New Roman", serif;
+  font-family: "Lucida Console", "Times New Roman", serif;
 }
