@@ -11,7 +11,7 @@ h1 {
   top: 25px;
   font-size: 500%;
   font-family: "Lucida Console", "Times New Roman", serif;
-	color: white;
+  color: white;
   text-align: center;
 }
 
@@ -21,17 +21,17 @@ h1 {
   padding: 10px;
   background-color: #2EC0F9;
   margin: 10px 0 px 10px 20px;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 	
 tr,
 td {
-	top: 5px;
+  top: 5px;
   font-family: "Lucida Console", "Times New Roman", serif;
-	background-color: #2EC0F9;
-	font-size: 100%;
-	text-align: center;
-	color: white;
+  background-color: #2EC0F9;
+  font-size: 100%;
+  text-align: center;
+  color: white;
 }
