@@ -11,7 +11,7 @@ h1 {
   top: 25px;
   font-size: 500%;
   font-family: "Lucida Console", "Times New Roman", serif;
-	color: #2EC0F9;
+	color: white;
   text-align: center;
 }
 
@@ -31,7 +31,7 @@ td {
 	top: 5px;
   font-family: "Lucida Console", "Times New Roman", serif;
 	background-color: #2EC0F9;
-	font-size: 1em;
+	font-size: 100%;
 	text-align: center;
 	color: white;
 }
