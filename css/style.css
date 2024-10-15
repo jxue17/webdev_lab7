@@ -31,6 +31,7 @@ td {
 	top: 5px;
   font-family: "Lucida Console", "Times New Roman", serif;
 	background-color: #2EC0F9;
-	font-size: 75%;
+	font-size: 1em;
 	text-align: center;
+	color: white;
 }
