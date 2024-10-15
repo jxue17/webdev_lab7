@@ -15,6 +15,16 @@ h1 {
   text-align: center;
 }
 
+tr,
+td {
+  top: 15px;
+  font-family: "Lucida Console", "Times New Roman", serif;
+	font-size: 150%;
+  background-color: white;
+  text-align: center;
+  color: black;
+}
+
 .image {
   float: right;
   width: 200px;
@@ -24,14 +34,4 @@ h1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
-	
-tr,
-td {
-  top: 15px;
-  font-family: "Lucida Console", "Times New Roman", serif;
-	font-size: 150%;
-	color: black;
-  background-color: white;
-  text-align: center;
 }
