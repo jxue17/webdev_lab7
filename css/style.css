@@ -12,6 +12,7 @@ h1 {
   font-size: 500%;
   font-family: "Lucida Console", "Times New Roman", serif;
   text-align: center;
+	color: white;
 }
 
 .image {
@@ -22,7 +23,10 @@ h1 {
   margin: 10px;
 }
 	
-
+tr,
 td {
+	top: 5px;
   font-family: "Lucida Console", "Times New Roman", serif;
+	background-color: white;
+	font-size: 150%
 }
